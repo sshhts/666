@@ -1,5 +1,5 @@
 
-# 666
+# task 1
 
 
 **level**: **Hard**
